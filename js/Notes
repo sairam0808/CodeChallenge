@@ -1,0 +1,4 @@
+In this challenge, I have created a javascript file with CSS to create a webpage that can be used to search the 
+customer using a textbox field where the user can enter. I also have a drop down column to identify through which
+column i need to search and then finally display the required data in the web page. Due to security issue on
+browsers you will need to setup a small web server to see the complete functionality. 
